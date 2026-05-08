@@ -5,6 +5,7 @@
 ### Estudiantes:
 * Alonso Casanova
 * Bruno Cerda
+* Berioska Maureen Contreras
 
 ---
 
